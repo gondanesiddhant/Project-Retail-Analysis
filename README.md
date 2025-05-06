@@ -68,8 +68,6 @@ The interactive dashboard built in Power BI includes:
 - ✅ SQL Scripts
 - ✅ Power BI Dashboard
 - ✅ PDF Summary Report
-- ✅ PowerPoint Deck *(if needed)*
-
 ---
 
 ## 📧 Contact
