@@ -17,8 +17,8 @@ This project involves an in-depth analysis of retail data to uncover insights re
 ## 🛠️ Tools Used
 - **SQL**: Data extraction, cleaning, and transformation.
 - **Power BI**: Visual dashboards and trend analysis.
-- **Excel** *(optional)*: Exploratory data work and presentation.
-- **Python** *(optional)*: Advanced analysis or automation tasks.
+- **Excel**: Exploratory data work and presentation.
+- **Python**: Advanced analysis or automation tasks.
 
 ---
 
